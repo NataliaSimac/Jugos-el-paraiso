@@ -1,2 +1,2 @@
-# Jugos-el-paraiso
-Jugos el paraiso
+# El-paraiso
+El paraiso
